@@ -67,6 +67,14 @@
 }
 .text_link_mouse_down {
 }
+.text_field {
+  color:#000000;
+  text-align:left;
+}
+.list_box {
+  color:#000000;
+  text-align:left;
+}
 .table_cell {
 }
 .form_hint {
